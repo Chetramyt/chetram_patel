@@ -32,6 +32,9 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="C" width="40" height="40" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
