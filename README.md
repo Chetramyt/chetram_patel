@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.medial.app/user/chetram-patel-5660cfe8dad75" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/share-3.png" alt="Medial" width="40" height="40" />
+    <img src="[https://img.icons8.com/ios-filled/50/000000/share-3.png](https://play-lh.googleusercontent.com/fy8qLJ7AdY5QP4tnlnp8AtAqT_rS1h-2ZS_8ANTz_J2il0La7_E9VJozPn3mLFxTj-Bq=w240-h480-rw)" alt="Medial" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/chetram-patel-b25768252/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
